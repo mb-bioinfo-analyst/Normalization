@@ -5,9 +5,9 @@ account: bmustafa12
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 9395234
-bundleId: 7410398
+bundleId: 7410435
 url: https://bmustafa12.shinyapps.io/Normalization/
-when: 1688256546.52613
-lastSyncTime: 1688256546.52614
+when: 1688257260.91191
+lastSyncTime: 1688257260.91192
 asMultiple: FALSE
 asStatic: FALSE

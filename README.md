@@ -1,6 +1,6 @@
 Raw data Normalization in Shiny
 ===========
-
+[Normalization App!](https://bmustafa12.shinyapps.io/Normalization/)
 [Information](index.html)
 
 This interactive Shiny application lets the user upload their dataset and get normalized data in excel workbook. It also lets you take a quick look on the underlying and processed dataset itself.
